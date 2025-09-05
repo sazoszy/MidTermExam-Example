@@ -1,3 +1,7 @@
+/* Note: Dont get confused on the "attempt" part since it is 
+just like the common for loop. The variable was just 
+renamed as attempt. */
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -77,3 +81,4 @@ int attempt;
     }
 return 0;
 }
+
